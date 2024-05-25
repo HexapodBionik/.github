@@ -2,7 +2,7 @@
 
 ## 6-legged robot from WUT
 
-<img src="img/elkapod_plaski.svg" alt="Elkapod logo" width="250" height="250">
+<img src="elkapod_plaski.svg" alt="Elkapod logo" width="250" height="250">
 
 While legs as a form of transportation are quite common in the nature, in robotics they are less popular, due to a good deal of obstacles. However they offer significantly more possibilities when it comes to traversable terrain.
 
@@ -15,8 +15,8 @@ Despite expected chellanges that, we decided to design and develop our very own,
 ## What we've got
 As for today we have reliable working leg, that acts as learning tool for every team. Right now we are in the process of developing a robot's body that would join all upcomming legs and store necessary electronics. 
 
-<img src="img/leg1.jpg" width="300">
-<img src="img/leg2.jpg" width="300">
+<img src="leg1.jpg" width="300">
+<img src="leg2.jpg" width="300">
 
 
 ## Simulation
