@@ -2,7 +2,7 @@
 
 ## 6-legged robot from WUT
 
-<img src="elkapod_plaski.svg" alt="Elkapod logo" width="250" height="250">
+<img src="https://github.com/HexapodBionik/.github/blob/main/profile/elkapod_plaski.svg" alt="Elkapod logo" width="250" height="250">
 
 While legs as a form of transportation are quite common in the nature, in robotics they are less popular, due to a good deal of obstacles. However they offer significantly more possibilities when it comes to traversable terrain.
 
