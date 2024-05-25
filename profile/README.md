@@ -15,8 +15,8 @@ Despite expected chellanges that, we decided to design and develop our very own,
 ## What we've got
 As for today we have reliable working leg, that acts as learning tool for every team. Right now we are in the process of developing a robot's body that would join all upcomming legs and store necessary electronics. 
 
-<img src="https://github.com/HexapodBionik/.github/blob/main/profile/leg1.jpg" width="300">
-<img src="https://github.com/HexapodBionik/.github/blob/main/profile/leg2.jpg" width="300">
+<img src="https://github.com/HexapodBionik/.github/blob/main/profile/leg1.jpg" width="270">
+<img src="https://github.com/HexapodBionik/.github/blob/main/profile/leg2.jpg" width="270">
 
 
 ## Simulation
